@@ -1,0 +1,4 @@
+Station#= D22106
+pi model= Raspberry pi 5
+Boot drive label= mmcblk0p2
+name= Alexander MacLean
